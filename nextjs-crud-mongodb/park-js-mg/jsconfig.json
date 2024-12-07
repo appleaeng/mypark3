@@ -1,0 +1,20 @@
+
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["../park-js-mg/src/*"]
+    }
+  }
+}
+
+/* 
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"]
+      
+    }
+  }
+}
+
+*/
